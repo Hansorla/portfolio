@@ -230,6 +230,7 @@
   .job {
     display: flex;
     align-items: center;
+    margin: 20px;
   }
   
   .job__description {
@@ -508,7 +509,7 @@
   @media screen and (max-width: 768px) {
     :root {
       /* Font size */
-      --font-large: 30px;
+    --font-large: 30px;
       --font-medium: 18px;
       --font-regular: 16px;
       --font-small: 14px;
